@@ -49,7 +49,7 @@ A small fleet run entirely as code, used as my DevOps playground:
 | [**Grout**](https://github.com/uairhahs/Grout) | Fills the gaps that Windows' own media session leaves | JavaScript |
 | [**glochidia**](https://github.com/uairhahs/glochidia) | x86_64 musl compiler factory for statically linked binaries on read-only root filesystems | Rust |
 | [**kyo-mcp**](https://github.com/uairhahs/kyo-mcp) | MCP server compliant with Google's Open Knowledge Format | Python |
-| [**display-cycler-for-kde**](https://github.com/uairhahs/display-cycler-for-kde) | Cycle display layouts in KDE Plasma, aimed at docked laptops | Shell |
+| [**Bifocal**](https://github.com/uairhahs/bifocal) | Switch a docked laptop between its own screen, the dock monitor, or both, on KDE Plasma | Shell |
 | [**rEFInd-rectilinear**](https://github.com/uairhahs/rEFInd-rectilinear) | My rEFInd theme, plus a Python tool for generating rEFInd fonts | Shell, Python |
 | [**MaterialTimetable**](https://github.com/uairhahs/MaterialTimetable) | Material Design timetable manager backed by SQLite | Java |
 
