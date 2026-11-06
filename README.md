@@ -53,13 +53,6 @@ A small fleet run entirely as code, used as my DevOps playground:
 | [**rEFInd-rectilinear**](https://github.com/uairhahs/rEFInd-rectilinear) | My rEFInd theme, plus a Python tool for generating rEFInd fonts | Shell, Python |
 | [**MaterialTimetable**](https://github.com/uairhahs/MaterialTimetable) | Material Design timetable manager backed by SQLite | Java |
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uairhahs&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uairhahs&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uairhahs&style=flat-square&color=5277C3" alt="Profile views">
 </p>
